@@ -1,40 +1,25 @@
 ## Hi there 👋
-
-<!--
-**astrolinus/astrolinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  
 # I'm Debangshu ✨
 
-I am a first year student @RNSIT, Learning about Machine learning, Cybersecurity and IOT systems. I learn by getting my hands dirty and tinker around by building real world projects. 
+I am a first year student @RNSIT, Learning about Machine learning, Cybersecurity and IOT systems. I learn by tinkering around and getting my hands dirty by building real world projects. 
 
 
 
 ## Current projects
 
 <table>
-<thead><tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Stack</th><th align="right">Stars</th></tr></thead>
+<thead><tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Stack</th></tr></thead>
 <tbody>
-<tr><td align="left"><a href="https://github.com/astrolinus/house-prediction-model">house-prediction-model</a></td><td align="left">An ML model created to predict the house price based on dataset from California. </td><td align="left">Python</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/astrolinus/house-prediction-model">house-prediction-model</a></td><td align="left">An ML model created to predict the house price based on dataset from California. </td><td align="left">Python</td></tr>
 </tbody>
 </table>
 
 ## Stack
 
-Python
-Git/Github
-ESP32
+Python \
+Git/Github \
+ESP32 \
 Arduino
 
 ---
