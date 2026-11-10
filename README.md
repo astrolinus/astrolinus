@@ -14,23 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Debangshu Som
+ 
+# I'm Debangshu ✨
 
-A first year CSE student @ RNSIT exploring and learning ML, Cybersecurity and Backend systems.
+I am a first year student @RNSIT, Learning about Machine learning, Cybersecurity and IOT systems. I learn by getting my hands dirty and tinker around by building real world projects. 
 
-<a href="https://github.com/astrolinus">GitHub</a>
 
-## Selected work
+
+## Current projects
 
 <table>
 <thead><tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Stack</th><th align="right">Stars</th></tr></thead>
 <tbody>
-<tr><td align="left"><a href="https://github.com/astrolinus/house-prediction-model">house-prediction-model</a></td><td align="left">An ML model created to predict the house price based on dataset from California</td><td align="left">Python</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/astrolinus/house-prediction-model">house-prediction-model</a></td><td align="left">An ML model created to predict the house price based on dataset from California. </td><td align="left">Python</td><td align="right">0</td></tr>
 </tbody>
 </table>
 
 ## Stack
 
-Python.
+Python
+Git/Github
+ESP32
+Arduino
 
 ---
