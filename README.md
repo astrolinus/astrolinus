@@ -12,6 +12,7 @@ I am a first year student @RNSIT, Learning about Machine learning, Cybersecurity
 <thead><tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Stack</th></tr></thead>
 <tbody>
 <tr><td align="left"><a href="https://github.com/astrolinus/house-prediction-model">house-prediction-model</a></td><td align="left">An ML model created to predict the house price based on dataset from California. </td><td align="left">Python</td></tr>
+<tr><td align="left"><a href="https://github.com/astrolinus/local-ai-chatbot">local-ai-chatbot</a></td><td align="left">Local AI chatbot on web interface by running models through Ollama </td><td align="left">Python</td></tr>
 </tbody>
 </table>
 
